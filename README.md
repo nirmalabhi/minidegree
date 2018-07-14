@@ -1,0 +1,2 @@
+# minidegree
+Devops Minidegree
